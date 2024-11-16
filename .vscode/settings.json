@@ -1,6 +1,0 @@
-{
-    "CodeGPT.apiKey": "OpenAI",
-    "codegpt.apiKey": "YOUR_API_KEY",
-    "codegpt.model": "ChatGPT",
-    "bitoAI.codeCompletion.enableCommentToCode": true
-}
