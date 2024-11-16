@@ -1,6 +1,6 @@
 {
     "CodeGPT.apiKey": "OpenAI",
-    "codegpt.apiKey": "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",
+    "codegpt.apiKey": "YOUR_API_KEY",
     "codegpt.model": "ChatGPT",
     "bitoAI.codeCompletion.enableCommentToCode": true
 }
