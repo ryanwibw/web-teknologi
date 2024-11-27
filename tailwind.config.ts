@@ -11,6 +11,11 @@ const config: Config = {
       gridTemplateColumns: {
         '13': 'repeat(13, minmax(0, 1fr))',
       },
+      fontFamily: {
+        times: ['Times New Roman', 'serif'], // Font Times New Roman
+        roboto: ['Roboto', 'sans-serif'], // Tambahkan font Roboto
+        customFont: ['Custom Font Name', 'sans-serif'], // Contoh font lain
+      },
       colors: {
         blue: {
           400: '#2589FE',
